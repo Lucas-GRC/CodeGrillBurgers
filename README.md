@@ -1,2 +1,2 @@
-# ProjetoFinal-CTI
+# ProjetoFinal-CPI
 Projeto Code Grill Burgers.
